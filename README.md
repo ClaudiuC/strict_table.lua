@@ -1,12 +1,10 @@
-strict_table.lua
-----------------
+### strict_table.lua
 
 A Github mirror of the [Strict Tables Lua snippet](http://snippets.luacode.org/snippets/Strict_Tables_132). You
 can read more on [the author's article](
 http://steved-imaginaryreal.blogspot.com/2011/09/strict-tables-in-lua.html).
 
-Usage:
-------
+### Usage
 
 ```
 local Strict = require 'strict_table'
